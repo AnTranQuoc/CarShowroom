@@ -1,0 +1,13 @@
+.car-selection-container {
+  @apply flex flex-row space-x-2 overflow-hidden p-1;
+  animation: fade-up 0.5s;
+}
+
+.car-selection-list {
+  @apply flex flex-row;
+}
+.small-button {
+  padding: 0.2rem; /* Giảm kích thước padding để làm cho nút nhỏ hơn */
+  font-size: 0.8rem; /* Giảm kích thước font để biểu tượng nhỏ hơn */
+  line-height: 1; /* Điều chỉnh line-height để biểu tượng không bị dãn ra */
+}

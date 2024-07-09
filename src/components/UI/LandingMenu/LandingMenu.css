@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap");
+
+.landing-page {
+  @apply w-screen h-screen flex flex-row items-center justify-between px-2 md:px-16 bg-black;
+  background: url("/images/929552.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.menu-container {
+  @apply flex flex-col justify-start items-start p-2 text-left gap-8;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 16px; /* Optional: to add some space from the edges */
+}
+
+.main-title {
+  @apply text-white/80 text-4xl sm:text-6xl lg:text-7xl uppercase text-left;
+  color: rgb(0, 0, 35);
+  font-family: "Fjalla One", "sans-setif";
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sub-title {
+  @apply text-white/50 text-center md:text-left mt-8 md:mt-0;
+  color: rgb(0, 0, 35);
+}
+
+.landing-btn {
+  @apply text-white/40 hover:text-white/80 hover:scale-105 active:scale-95 hover:bg-white/20 transition-all outline outline-1 outline-white/30 hover:outline-white/80 rounded-sm py-3 px-6;
+}
+
+.fade-in {
+  animation: fade-in 0.3s;
+}
+
+.fade-out {
+  animation: fade-out 0.3s;
+}
