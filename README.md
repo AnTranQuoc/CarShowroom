@@ -4,7 +4,9 @@ Develop a professional car showroom project targeting luxury car dealerships. Ut
 + Detailed specifications and information about the cars
 + Integration of engine start-up sound effects
 + Testing and experimenting with different car paints
+
 The website aims to provide a comfortable experience for customers, making it easy for them to choose their favorite car.
+
 ![image](https://github.com/user-attachments/assets/40c79955-a4e6-4bb8-aac1-05b0f039df39)
 
 ## Project setup
