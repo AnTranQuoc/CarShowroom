@@ -9,6 +9,9 @@ The website aims to provide a comfortable experience for customers, making it ea
 
 ![image](https://github.com/user-attachments/assets/40c79955-a4e6-4bb8-aac1-05b0f039df39)
 
+Challenges Faced
+Improve performance in general; reducing shadow resolutions, finding car models that look high poly even with low poly count, etc.
+
 ## Project setup
 ```
 npm install -g pnpm
