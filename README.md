@@ -1,5 +1,5 @@
 # Car Showroom 3D with Three.JS
-Develop a professional car showroom project targeting luxury car dealerships. Utilize small-scale 3D models with numerous features for customers:
+Develop a professional car showroom project targeting luxury car dealerships and made with React-Three-Fiber. Utilize small-scale 3D models with numerous features for customers:
 + Overall viewing of various car models
 + Detailed specifications and information about the cars
 + Integration of engine start-up sound effects
